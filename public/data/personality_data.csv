@@ -1,0 +1,52 @@
+naam,plotx,ploty,foto,motivator,regisseur,analyticus,zorger,roles
+Alex Johnson,0.0,-0.0,1,18,7,10,15,Manager,Developer
+Bailey Smith,-0.075,-0.225,2,8,15,12,10,Developer,Analyst
+Casey Miller,0.175,-0.475,3,5,12,18,6,Analyst,Researcher
+Dana Williams,0.075,0.225,4,6,8,14,17,Team Lead,Coordinator
+Evan Davis,-0.525,-0.075,5,20,14,8,5,Executive,Manager
+Fiona Garcia,0.275,0.025,6,7,10,12,16,Coordinator,Team Lead
+George Taylor,-0.25,-0.65,7,12,17,15,4,Developer,Architect
+Hannah Wright,0.45,-0.55,8,4,6,20,8,Researcher,Analyst
+Ian Martinez,-0.525,0.175,9,19,15,5,8,Executive,Manager
+Jamie Robinson,0.175,0.35,10,11,9,7,20,Coordinator,Coach
+Kai Thompson,0.15,-0.4,11,6,14,17,9,Architect,Developer
+Liam Anderson,-0.425,-0.225,12,16,17,9,7,Manager,Developer
+Morgan Garcia,0.425,0.075,13,8,6,12,19,Team Lead,Coach
+Noah Lee,-0.4,0.25,14,20,12,7,9,Executive,Manager
+Olivia Chen,0.5,-0.075,15,5,7,20,12,Analyst,Researcher
+Pat Johnson,-0.4,-0.45,1,14,18,11,5,Developer,Architect
+Quinn Wilson,0.425,0.125,2,7,9,15,18,Coordinator,Team Lead
+Riley Davis,-0.325,-0.075,3,17,14,8,10,Manager,Executive
+Sam Taylor,0.375,-0.275,4,6,8,19,10,Researcher,Analyst
+Tina Wright,-0.025,0.225,5,13,14,10,16,Team Lead,Manager
+Uma Johnson,0.425,-0.075,6,8,6,17,14,Analyst,Coordinator
+Victor Smith,-0.35,-0.1,7,18,12,9,7,Executive,Manager
+Wendy Miller,0.05,-0.35,8,9,13,17,7,Developer,Analyst
+Xavier Williams,0.225,0.325,9,12,14,6,19,Coach,Team Lead
+Yara Davis,0.4,-0.1,10,4,10,19,11,Researcher,Analyst
+Zach Garcia,-0.275,0.175,11,16,15,7,13,Manager,Team Lead
+Adrian Taylor,0.4,0.0,12,7,8,15,16,Coordinator,Coach
+Blake Wright,-0.55,-0.15,13,19,16,8,5,Executive,Manager
+Cameron Lee,0.1,-0.4,14,8,12,18,6,Developer,Architect
+Dakota Martinez,0.1,0.35,15,10,11,5,20,Coach,Team Lead
+Ellis Robinson,0.375,-0.325,1,6,9,20,10,Analyst,Researcher
+Finley Thompson,-0.35,-0.2,2,14,17,12,5,Developer,Manager
+Grayson Anderson,0.3,0.05,3,9,10,13,18,Team Lead,Coordinator
+Harper Garcia,-0.425,0.275,4,20,12,6,9,Executive,Manager
+Indigo Taylor,0.475,-0.275,5,4,7,19,11,Researcher,Analyst
+Jordan Smith,-0.325,-0.325,6,13,16,10,6,Developer,Architect
+Kennedy Wilson,0.4,0.1,7,8,7,14,17,Coordinator,Team Lead
+Logan Davis,-0.275,0.075,8,17,14,8,12,Manager,Executive
+Morgan Wright,0.225,-0.325,9,7,11,18,9,Analyst,Developer
+Nico Johnson,0.2,0.5,10,12,14,5,19,Coach,Team Lead
+Oakley Miller,0.425,-0.075,11,6,8,17,14,Analyst,Coordinator
+Parker Williams,-0.45,-0.1,12,18,15,9,6,Executive,Manager
+Quinn Garcia,0.025,-0.325,13,9,13,16,7,Developer,Architect
+Riley Taylor,0.175,0.35,14,11,10,8,20,Coach,Team Lead
+Sydney Lee,0.425,-0.325,15,5,9,20,11,Researcher,Analyst
+Tanner Smith,-0.175,0.125,1,15,14,9,13,Manager,Team Lead
+Uma Anderson,0.4,0.1,2,8,7,14,17,Coordinator,Coach
+Vincent Davis,-0.525,-0.075,3,19,16,8,6,Executive,Manager
+Willow Martinez,0.125,-0.375,4,7,12,18,8,Developer,Analyst
+Xander Johnson,0.05,0.375,5,12,11,6,19,Team Lead,Coach
+Yasmin Taylor,0.425,-0.325,6,5,8,20,10,Researcher,Analyst
