@@ -367,4 +367,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - DISC personality assessment model
-- All contributors and team members
+- This is an anonymized demo version of the app
