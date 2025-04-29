@@ -63,8 +63,8 @@ function App() {
             
             <p className="data-info">
               {filteredData.length === data.length 
-                ? `De stijlen van ${data.length} Valsplatters` 
-                : `${filteredData.length} van ${data.length} Valsplatters getoond`}
+                ? `De stijlen van ${data.length} werknemers` 
+                : `${filteredData.length} van ${data.length} werknemers getoond`}
             </p>
             
             <SearchBar 
