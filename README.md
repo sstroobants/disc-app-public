@@ -2,7 +2,7 @@
 
 A React application that visualizes personality profiles using the DISC model, plotting individuals on a quadrant that represents different behavioral styles.
 
-![DISC Model](public/background.png)
+![DISC Model](public/image.png)
 
 ## About the Project
 
